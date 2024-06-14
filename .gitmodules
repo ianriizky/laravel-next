@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/ianriizky/laravel-next-api
+[submodule "web"]
+	path = web
+	url = https://github.com/ianriizky/laravel-next-web
